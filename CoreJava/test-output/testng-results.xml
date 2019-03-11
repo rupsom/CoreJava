@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="100" started-at="2018-11-10T21:26:38Z" finished-at="2018-11-10T21:26:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="100" started-at="2018-11-10T21:26:38Z" finished-at="2018-11-10T21:26:38Z">
+      <class name="selenium.PriorityTest">
+        <test-method status="PASS" signature="XTest3()[pri:0, instance:selenium.PriorityTest@1c2c22f3]" name="XTest3" duration-ms="40" started-at="2018-11-11T02:56:38Z" finished-at="2018-11-11T02:56:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- XTest3 -->
+        <test-method status="PASS" signature="ATest2()[pri:0, instance:selenium.PriorityTest@1c2c22f3]" name="ATest2" duration-ms="2" started-at="2018-11-11T02:56:38Z" finished-at="2018-11-11T02:56:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ATest2 -->
+        <test-method status="PASS" signature="BTest4()[pri:0, instance:selenium.PriorityTest@1c2c22f3]" name="BTest4" duration-ms="3" started-at="2018-11-11T02:56:38Z" finished-at="2018-11-11T02:56:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BTest4 -->
+        <test-method status="PASS" signature="Test1()[pri:0, instance:selenium.PriorityTest@1c2c22f3]" name="Test1" duration-ms="2" started-at="2018-11-11T02:56:38Z" finished-at="2018-11-11T02:56:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+      </class> <!-- selenium.PriorityTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
